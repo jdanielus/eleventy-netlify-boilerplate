@@ -2,7 +2,7 @@
 title: This is my first post
 summary: Why contemplating our mortality can be a powerful catalyst for change
 date: 2015-01-01
-featuredImage: image.jpg
+featuredImage: https://live.staticflickr.com/649/32202572800_3effed3a67_c.jpg
 tags:
   - post
   - tech
