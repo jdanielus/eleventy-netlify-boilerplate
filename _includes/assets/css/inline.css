@@ -114,6 +114,11 @@ article {
 	border-bottom: 1px solid var(--white);
 }
 
+article img.image-featured{
+	max-width: 100%;
+	mix-blend-mode: darken;	
+}
+
 main > section > article > * {
 	margin-top: 0;
 	margin-bottom: .5em;
