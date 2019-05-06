@@ -116,7 +116,7 @@ article {
 
 article img.image-featured{
 	max-width: 100%;
-	mix-blend-mode: darken;	
+	mix-blend-mode: multiply;	
 }
 
 main > section > article > * {
