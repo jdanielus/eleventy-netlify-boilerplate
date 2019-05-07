@@ -15,12 +15,12 @@ section: post
   </p>
 
   {{ layoutContent | safe }}
-  <ul>
-  {% for filename in images %}
 
-   <img src="/static/img/{{filename}}" alt="">
+  {% for filename in images %}
+  <img class="gallery-image" src="{{ filename }}">
+   {# <img src="/static/img/{{filename}}" alt=""> #}
   {% endfor %}
-  </ul>
+
   {% if tags %}
     <p>
     {% for tag in tags %}

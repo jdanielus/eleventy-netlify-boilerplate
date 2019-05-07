@@ -2,17 +2,18 @@
 	{% for post in postslist | reverse %}
 		<article{% if post.url == url %} data-current="current item"{% endif %}>
 			<h3>
-				<a href="{{ post.url | url }}">
+				{% if post.data.summary %}<a href="{{ post.url | url }}">{% endif %}
 					{% if post.data.title %}
 						{{ post.data.title }}
 					{% else %}
 						Untitled
 					{% endif %}
-				</a>
+			{% if post.data.summary %}	</a>{% endif %}
 			</h3>
 			{% if post.data.featuredImage %}
-				<img class="image-featured" src="{{ post.data.featuredImage}}" alt="{{ post.data.title}} ">
+				<img class="image-featured {% if post.data.color %}color{% endif %}" src="{{ post.data.featuredImage}}" alt="{{ post.data.title}} ">
 			{% endif %}
+
 			{% if post.data.summary %}
 				<p>
 					{{ post.data.summary }}
