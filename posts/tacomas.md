@@ -14,7 +14,8 @@ images:
  - https://live.staticflickr.com/65535/47709863891_8ed914d6d0_c.jpg
  - https://live.staticflickr.com/65535/33832577878_4a28f19bd7_c.jpg
 tags:
-  - single
   - hawaii
   - landscape
 ---
+
+Full gallery on <a href="https://www.flickr.com/photos/knifefight/albums/72157680032715148" target="_blank">flickr</a>
