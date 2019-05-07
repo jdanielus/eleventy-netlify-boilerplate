@@ -10,6 +10,9 @@
 					{% endif %}
 				</a>
 			</h3>
+			{% if post.data.featuredImage %}
+				<img class="image-featured" src="{{ post.data.featuredImage}}" alt="{{ post.data.title}} ">
+			{% endif %}
 			{% if post.data.summary %}
 				<p>
 					{{ post.data.summary }}

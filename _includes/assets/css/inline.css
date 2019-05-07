@@ -114,9 +114,9 @@ article {
 	border-bottom: 1px solid var(--white);
 }
 
-article img.image-featured{
+ img.image-featured{
 	max-width: 100%;
-	mix-blend-mode: multiply;	
+	mix-blend-mode: multiply;
 }
 
 main > section > article > * {

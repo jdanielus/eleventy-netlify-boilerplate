@@ -15,17 +15,12 @@ section: post
   </p>
 
   {{ layoutContent | safe }}
+  <ul>
+  {% for filename in images %}
 
-  {% if setid %}
-  <script>
-    $(document).ready(function() {
-      getImgs("{{ setid }}");
-    });
-</script>
-  </script>
-  <div id="flicker-images" class="gallery"></div>
-  {% endif %}
-
+   <img src="/static/img/{{filename}}" alt="">
+  {% endfor %}
+  </ul>
   {% if tags %}
     <p>
     {% for tag in tags %}
@@ -40,5 +35,5 @@ section: post
 </article>
 
 <nav>
-  <a href="{{ '/blog/' | url }}">← Blog index</a>
+  <a href="{{ '/' | url }}">← Blog index</a>
 </nav>
