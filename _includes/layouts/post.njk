@@ -4,7 +4,9 @@ section: post
 ---
 
 <article>
+  {% if featuredImage %}
   <img src="{{ featuredImage }}" alt="{{ title }}" class="image-featured">
+  {% endif %}
   <h1>{{ title }}</h1>
   <p>
     <small>
@@ -13,6 +15,16 @@ section: post
   </p>
 
   {{ layoutContent | safe }}
+
+  {% if setid %}
+  <script>
+    $(document).ready(function() {
+      getImgs("{{ setid }}");
+    });
+</script>
+  </script>
+  <div id="flicker-images" class="gallery"></div>
+  {% endif %}
 
   {% if tags %}
     <p>
