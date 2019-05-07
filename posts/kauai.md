@@ -1,5 +1,5 @@
 ---
-title: Kauai and its Tacomas
+title: Nobody mentioned the chickens in Kauai
 summary: Cristina and I went to Hawaii for the first time. We spent a week in Kauai hiking, driving, and eating. It was great.
 date: 2019-04-18
 featuredImage:
