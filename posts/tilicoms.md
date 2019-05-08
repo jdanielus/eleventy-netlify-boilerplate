@@ -1,6 +1,6 @@
 ---
-title: Nobody mentioned the chickens in Kauai
-summary: Cristina and I went to Hawaii for the first time. We spent a week in Kauai hiking, driving, and eating. It was great.
+title: The Tilicam
+summary: Our employee handbook states that one should spend time outdoors, with the mind unfettered.
 date: 2019-02-27
 featuredImage:
 color:
