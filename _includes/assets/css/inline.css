@@ -19,7 +19,7 @@ html {
 }
 body {
 	display: grid;
-	
+
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--turkey);
 }
@@ -126,6 +126,10 @@ article {
 	img.gallery-image{
 		max-width: 100%;
 		margin: 1em 0;
+		mix-blend-mode: multiply;
+	}
+	img.gallery-image.color{
+		mix-blend-mode: normal;
 	}
 main > section > article > * {
 	margin-top: 0;
