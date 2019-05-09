@@ -7,3 +7,7 @@ if (window.netlifyIdentity) {
     }
   });
 }
+new LazyLoad({
+    elements_selector: `.lazy`,
+    use_native: true // This one
+})
