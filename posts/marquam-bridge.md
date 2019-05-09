@@ -7,7 +7,7 @@ color:
 images:
 tags:
   - portland
-  - landscape
+  - cityscape
   - black and white
   - 35mm
 ---
