@@ -11,7 +11,7 @@
 			{% if post.data.summary %}	</a>{% endif %}
 			</h3>
 			{% if post.data.featuredImage %}
-				<img class="image-featured {% if post.data.color %}color{% endif %}" src="{{ post.data.featuredImage}}" alt="{{ post.data.title}} ">
+				<img class="image-featured lazy {% if post.data.color %}color{% endif %}" src="{{ post.data.featuredImage}}" alt="{{ post.data.title}} ">
 			{% endif %}
 
 			{% if post.data.summary %}
