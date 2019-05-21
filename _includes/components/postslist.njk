@@ -16,7 +16,7 @@
 
 			{% if post.data.summary %}
 				<p>
-					{{ post.data.summary }}
+					{{ post.data.summary }} <a href="{{ post.url | url }}">&rarr;</a>
 				</p>
 			{% endif %}
 			<p>
