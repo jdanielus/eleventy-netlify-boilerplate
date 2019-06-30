@@ -17,4 +17,5 @@ tags:
   - washington
   - landscape
   - ride
+  - digital
 ---

@@ -14,6 +14,7 @@ tags:
   - washington
   - landscape
   - run
+  - digital
 ---
 In the last couple weeks my running schedule has managed to become less regimented but infinitely more social. This longer run was around 9 miles with a fair amount of elevation front loaded in the first half.
 After a streak of beautiful and warm weather, we were out on a drizzly and cold day that obscured some of the lauded views of the gorge.
