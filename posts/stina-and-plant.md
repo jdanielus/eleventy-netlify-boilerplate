@@ -2,7 +2,7 @@
 title: Cristina and a plant in Ikea
 summary:
 date: 2019-07-07
-featuredImage: https://www.flickr.com/photos/knifefight/48220934457/sizes/c/
+featuredImage: https://live.staticflickr.com/65535/48220934457_7708deb920_c.jpg
 color:
 images:
 tags:
