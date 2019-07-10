@@ -1,13 +1,13 @@
 ---
 title: Two giant ceramic animals at the doorway.
 summary:
-date: 2019-07-04
-featuredImage: https://live.staticflickr.com/65535/48220931382_107f939eeb_c.jpg
+date: 2019-07-07
+featuredImage: https://www.flickr.com/photos/knifefight/48220934457/sizes/c/
 color:
 images:
 tags:
   - portland
-  - landscape
+  - portrait
   - black and white
   - 35mm
 ---
