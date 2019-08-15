@@ -27,5 +27,3 @@ tags:
   - 35mm
   - Black and White
 ---
-
-Full gallery on <a href="https://www.flickr.com/photos/knifefight/sets/72157676838518717" target="_blank">flickr</a>

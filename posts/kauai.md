@@ -19,5 +19,3 @@ tags:
   - hawaii
   - landscape
 ---
-
-Full gallery on <a href="https://www.flickr.com/photos/knifefight/albums/72157680032715148" target="_blank">flickr</a>
