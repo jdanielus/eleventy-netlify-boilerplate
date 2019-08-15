@@ -1,8 +1,8 @@
 ---
-title: Through the bike shelter glass on the Tilikum
+title: Mannequins and Hawthorne Bridge
 summary:
-date: 2019-07-10
-featuredImage: /static/img/2019/bike-shelter.jpg
+date: 2019-08-14
+featuredImage: /static/img/2019/mannequins-and-bridge.jpg
 color:
 images:
 tags:
