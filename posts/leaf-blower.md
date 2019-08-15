@@ -2,7 +2,7 @@
 title: Leaf Blower at Gateway Green work party
 summary:
 date: 2017-11-17
-featuredImage: https://live.staticflickr.com/4537/38295175116_7bafb13e31_c.jpg
+featuredImage: /static/img/2017/leaf-blower.jpg
 color:
 images:
 tags:
