@@ -1,7 +1,7 @@
 ---
 title: Iași, Romania 2019
 summary: From the last roll of film shot in Romania.
-date: 2019-05-20
+date: 2019-09-12
 featuredImage: /static/img/2019/romania/roll_8-9.jpg
 color: color
 images:
