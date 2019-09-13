@@ -14,7 +14,6 @@ images:
   - /static/img/2019/romania/roll_8-6.jpg
   - /static/img/2019/romania/roll_8-7.jpg
   - /static/img/2019/romania/roll_8-8.jpg
-  - /static/img/2019/romania/roll_8-9.jpg
 tags:
   - romania
   - color
