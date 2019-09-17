@@ -2,14 +2,13 @@
 title: Bucharest, Romania 2019
 summary: From the first 24 hours in Romania.
 date: 2019-09-16
-featuredImage: /static/img/2019/romania/roll_8-9.jpg
+featuredImage: /static/img/2019/romania/bucharest-8.jpg
 color: color
 images:
   - /static/img/2019/romania/bucharest-2.jpg
   - /static/img/2019/romania/bucharest-3.jpg
   - /static/img/2019/romania/bucharest-5.jpg
   - /static/img/2019/romania/bucharest-6.jpg
-  - /static/img/2019/romania/bucharest-8.jpg
   - /static/img/2019/romania/bucharest-9.jpg
   - /static/img/2019/romania/bucharest-10.jpg
   - /static/img/2019/romania/bucharest-11.jpg
