@@ -14,6 +14,9 @@ images:
   - /static/img/2019/romania/bucharest-11.jpg
   - /static/img/2019/romania/bucharest-12.jpg
   - /static/img/2019/romania/bucharest-13.jpg
+  - /static/img/2019/romania/bucharest-14.jpg
+  - /static/img/2019/romania/bucharest-15.jpg
+  - /static/img/2019/romania/bucharest-16.jpg
 tags:
   - bucharest
   - romania
