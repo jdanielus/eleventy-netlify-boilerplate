@@ -13,7 +13,10 @@ images:
   - /static/img/2019/romania/romania-2-7.jpg
   - /static/img/2019/romania/romania-2-8.jpg
   - /static/img/2019/romania/romania-2-9.jpg
+  - /static/img/2019/romania/romania-2-dig-1.jpg
   - /static/img/2019/romania/romania-2-10.jpg
+  - /static/img/2019/romania/romania-2-dig-2.jpg
+  - /static/img/2019/romania/romania-2-dig-3.jpg
 tags:
   - Vidraru Dam
   - romania
