@@ -1,6 +1,6 @@
 ---
 title: Sighisoara, Romania 2019
-summary: One day spent in they lovely walled village.
+summary: One day spent in the lovely walled village.
 date: 2019-09-19
 featuredImage: /static/img/2019/romania/sighisoara-4-3.jpg
 color: color
@@ -16,7 +16,6 @@ images:
   - /static/img/2019/romania/sighisoara-3-9.jpg
   - /static/img/2019/romania/sighisoara-4-1.jpg
   - /static/img/2019/romania/sighisoara-4-2.jpg
-  - /static/img/2019/romania/sighisoara-4-3.jpg
   - /static/img/2019/romania/sighisoara-4-4.jpg
 tags:
   - dracula
