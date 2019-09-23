@@ -1,7 +1,7 @@
 ---
 title: Lacu Rosu, Romania 2019
 summary: On our way out of Transylvania, and into the Bucovina and Moldavia.
-date: 2019-09-19
+date: 2019-09-22
 featuredImage: /static/img/2019/romania/lacu-rosu-4-1.jpg
 color: color
 images:
