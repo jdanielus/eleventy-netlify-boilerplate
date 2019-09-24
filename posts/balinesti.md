@@ -8,6 +8,7 @@ images:
   - /static/img/2019/romania/balinesti-1.jpg
   - /static/img/2019/romania/balinesti-2.jpg
   - /static/img/2019/romania/balinesti-4.jpg
+  - /static/img/2019/romania/balinesti-river.jpg
   - /static/img/2019/romania/balinesti-5.jpg
   - /static/img/2019/romania/balinesti-6.jpg
   - /static/img/2019/romania/balinesti-7.jpg
