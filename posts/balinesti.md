@@ -1,7 +1,7 @@
 ---
 title: Balinesti, Romania 2019
 summary: The summer hideaway.
-date: 2019-09-22
+date: 2019-09-23
 featuredImage: /static/img/2019/romania/balinesti-1-2.jpg
 color: color
 images:
