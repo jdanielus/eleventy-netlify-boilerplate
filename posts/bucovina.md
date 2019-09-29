@@ -7,8 +7,8 @@ color: color
 images:
   - /static/img/2019/romania/bucovina-1.jpg
   - /static/img/2019/romania/bucovina-2.jpg
+  - /static/img/2019/romania/bucovina-3.jpg
   - /static/img/2019/romania/bucovina-4.jpg
-  - /static/img/2019/romania/bucovina-5.jpg
   - /static/img/2019/romania/bucovina-5.jpg
   - /static/img/2019/romania/bucovina-6.jpg
   - /static/img/2019/romania/bucovina-7.jpg
