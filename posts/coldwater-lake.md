@@ -5,15 +5,37 @@ date: 2019-11-04
 featuredImage:
 color: color
 images:
-  - /static/img/2019/coldwater-lake-1.jpg
-  - https://live.staticflickr.com/65535/46955009645_b0543e9014_c.jpg
-  - https://live.staticflickr.com/65535/33994022398_b9b28a13eb_c.jpg
-  - https://live.staticflickr.com/65535/46955017785_3e3819de80_c.jpg
-  - https://live.staticflickr.com/65535/47081882034_6b517b8f69_c.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-1.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-2.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-3.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-4.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-5.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-6.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-7.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-8.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-9.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-10.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-11.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-12.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-13.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-14.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-15.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-16.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-17.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-18.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-19.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-20.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-21.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-22.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-23.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-24.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-25.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-26.jpg
+  - /static/img/2019/coldwater-lake/coldwater-lake-27.jpg    
 tags:
   - washington
   - landscape
   - run
   - digital
 ---
-With Autumn opportunities running out we went up for a longish (12.5 mile) hike around Coldwater Lake near Mt. St. Helens. I had only ever ridden around the lake, and just last year ran part of it with Andrew. We stopped half way to make coffee, right before the only significant elevation gain on the trail. Despite the length, it went quickly with very little fuss. 
+With Autumn opportunities running out we went up for a longish (12.5 mile) hike around Coldwater Lake near Mt. St. Helens. I had only ever ridden around the lake, and just last year ran part of it with Andrew. We stopped half way to make coffee, right before the only significant elevation gain on the trail. Despite the length, it went quickly with very little fuss.
