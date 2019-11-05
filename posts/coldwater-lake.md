@@ -38,4 +38,4 @@ tags:
   - run
   - digital
 ---
-With Autumn opportunities running out we went up for a longish (12.5 mile) hike around Coldwater Lake near Mt. St. Helens. I had only ever ridden around the lake, and just last year ran part of it with Andrew. We stopped half way to make coffee, right before the only significant elevation gain on the trail. Despite the length, it went quickly with very little fuss.
+With Autumn opportunities running out we went up for a longish (12.5 mile) hike around Coldwater Lake near Mt. St. Helens. I had only ever ridden around the lake, and just last year ran part of it with Andrew. We stopped half way to make coffee, right before the only significant elevation gain on the trail. Despite the length, it went quickly with very little fuss. On the way home we stopped at the Fire Mountain Grill and loaded up on fried pickles, cobbler, and milk. Overall a great day out.
